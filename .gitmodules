@@ -1,0 +1,3 @@
+[submodule "MPCLibraryTests"]
+	path = MPCLibraryTests
+	url = https://github.com/olanrewajufarooq/MPCLibraryTests.git
