@@ -1,6 +1,3 @@
 [submodule "MPCLibraryTests"]
 	path = MPCLibraryTests
 	url = https://github.com/olanrewajufarooq/MPCLibraryTests.git
-[submodule "BlueROV-simulation-model"]
-	path = BlueROV-simulation-model
-	url = https://github.com/LaboratoireCosmerTOULON/BlueROV-simulation-model.git
